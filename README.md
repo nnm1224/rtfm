@@ -1,3 +1,9 @@
+Aasdsadasdasdasdasdasdasdasdjhajkdgasdai
+A
+A
+B
+B
+B
 # rtfm
 test
 ex06
