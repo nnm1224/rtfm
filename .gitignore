@@ -2,4 +2,7 @@
 *.txt
 *.swp
 *.swo
+*.dm.swp
+*.md.swo
+*.sh.swn
 
